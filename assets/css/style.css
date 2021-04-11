@@ -1,0 +1,123 @@
+body {
+font-family: 'Cabin', sans-serif;
+}
+
+.cursiva {
+  font-family: 'Lobster', cursive;
+  font-weight: 400;
+  font-size: 2rem;
+
+}
+
+.nav-link {
+  color: #ffffff;
+}
+
+header {
+  margin-top: 6rem;
+}
+
+.uno {
+ width: 100%;
+ vertical-align: middle;
+}
+
+h1 {
+  font-weight: 700;
+  color: #373A3C;
+  font-size: 3rem;
+}
+
+.linea {
+margin-left: 0;
+margin-right: 7rem;
+margin-top: 0;
+}
+
+.subtitulo {
+  font-weight: 700;
+  color: #373A3C;
+}
+
+.letra {
+  color: #373A3C;
+  border-color: #DDDDDD;
+}
+
+.carousel-indicators {
+  position: relative;
+  margin-bottom: 0;
+}
+
+.carousel-indicators li {
+ width: 1rem;
+ height: 1rem;
+ border-radius: 50%;
+ background-color: #373A3C;
+ vertical-align: bottom;
+}
+
+.receta {
+  font-weight: 700;
+  height: 1.8rem;
+  color: #373A3C;
+}
+
+.masa {
+  font-weight: 400;
+  color: #373A3C;
+  width: 55%;
+}
+
+.masa2 {
+  font-weight: 400;
+  color: #373A3C;
+  width: 70%;
+}
+
+footer {
+  margin-bottom: 0;
+  border-bottom: 0;
+  padding-bottom: 0
+}
+
+h2 {
+  font-weight: 700;
+  color: #373A3C;
+  font-size: 2.3rem;
+}
+
+.descripcion {
+  font-weight: 400;
+  color: #373A3C;
+}
+
+.newsletter .cursiva {
+  font-size: 1.5rem;
+  padding-top: 0;
+  margin-top: 0;
+}
+
+.final {
+  font-weight: 700;
+}
+
+.final2 {
+  font-weight: 400;
+  font-size: 1.5rem;
+}
+
+span {
+  height: 4rem;
+}
+
+.angosto{
+  padding-left: 2rem;
+  padding-right: 2rem;
+}
+
+@media (max-width:768px) {
+   .mobile {
+      width: 300px;
+   }
+}
